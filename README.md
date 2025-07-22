@@ -79,6 +79,7 @@ Press q to exit.
 
 ### OUTPUT IMAGE (FACE DETECTION)
 
+<img width="678" height="313" alt="image" src="https://github.com/user-attachments/assets/25704e44-338d-4784-a765-e00b5eb7d5bb" />
 
 
 ✅ Face box drawn around the detected face.
