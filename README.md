@@ -73,6 +73,14 @@ Press q to exit.
 
 ## 📷 Example Output
 
+### INPUT IMAGE
+
+<img width="683" height="402" alt="image" src="https://github.com/user-attachments/assets/c3d87217-cd54-499d-85fb-45c59baaed09" />
+
+### OUTPUT IMAGE (FACE DETECTION)
+
+
+
 ✅ Face box drawn around the detected face.
 
 🟢 User name and confidence score displayed.
