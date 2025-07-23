@@ -25,7 +25,7 @@ pip install opencv-python numpy pillow
 
 ## **🗂 Folder Structure**
 
-face_recognition_project/
+face_recognition_project
 
 ├── dataset/                     # Captured face images
 
